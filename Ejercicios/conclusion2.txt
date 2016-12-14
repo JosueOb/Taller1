@@ -1,1 +1,0 @@
-El tkinter nos ayuda a dominar técnicas para trabajar con gráficos  o widgets de diseño comprendiendo asi todos los métodos utilizados en los ejercicios.

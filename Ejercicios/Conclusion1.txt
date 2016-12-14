@@ -1,4 +1,0 @@
-Tkinter es una biblioteca gráfica de Python que nos permite realizar una interfaz gráfica para un usuario por medio de funciones.
-
-
-
