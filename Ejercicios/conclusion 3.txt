@@ -1,0 +1,9 @@
+Conclusion ejercicio 7 y ejercicio 8
+*Utilizamos 2 variables,  dos check en los cuales nosotros pestañeamos uno de hombre y otro de mujer, 
+o podemos pestanear los dos
+*Tambien creamos un Label donde imprimimos "Indicar el sexo "
+*Despues creamos dos botones uno de "Quit" y otro de "Show" 
+En el boton de quit acaba con la ejecucuion 
+En el boton de Show muestra los male o los female con 1 o 0 dependiendo si lo hemos seleccionado.
+
+
