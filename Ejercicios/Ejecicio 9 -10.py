@@ -24,7 +24,7 @@ e2 = Entry(master1)
 e1.grid(row=0,column=1)
 e2.grid(row=1,column=1)
 
-Button(master1,text="Salir",command = master.destroy).grid(row=3,column=0,sticky=W,pady=4)
+Button(master1,text="Salir",command = master.quit).grid(row=3,column=0,sticky=W,pady=4)
 Button(master1,text="Imprimir",command =nombre).grid(row=3,column=1,sticky=W,pady=4)
 
 mainloop()
