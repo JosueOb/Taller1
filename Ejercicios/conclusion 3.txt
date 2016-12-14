@@ -1,5 +1,5 @@
 Conclusion ejercicio 7 y ejercicio 8
-*Utilizamos 2 variables como botones,  dos check en los cuales nosotros pestañeamos uno de hombre y otro de mujer, 
+*Se puede UtilizaR  variables como botones y check en los cuales nosotros pestañeamos uno de hombre y otro de mujer, 
 o podemos pestañear los dos.
 *Tambien nos permite creamos un Label donde indicamos un texto
 *Nos permite crear botones que desempeñan una impresion,un contero,terminar el procagrana entre otras funcionalidades. 
